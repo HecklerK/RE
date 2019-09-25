@@ -1,0 +1,13 @@
+c:\users\kbstudentint\documents\visual studio 2013\Projects\RE\RE\bin\Debug\RE.exe.config
+c:\users\kbstudentint\documents\visual studio 2013\Projects\RE\RE\bin\Debug\RE.exe
+c:\users\kbstudentint\documents\visual studio 2013\Projects\RE\RE\bin\Debug\RE.pdb
+c:\users\kbstudentint\documents\visual studio 2013\Projects\RE\RE\obj\Debug\RE.csprojResolveAssemblyReference.cache
+c:\users\kbstudentint\documents\visual studio 2013\Projects\RE\RE\obj\Debug\MainWindow.baml
+c:\users\kbstudentint\documents\visual studio 2013\Projects\RE\RE\obj\Debug\MainWindow.g.cs
+c:\users\kbstudentint\documents\visual studio 2013\Projects\RE\RE\obj\Debug\App.g.cs
+c:\users\kbstudentint\documents\visual studio 2013\Projects\RE\RE\obj\Debug\RE_MarkupCompile.cache
+c:\users\kbstudentint\documents\visual studio 2013\Projects\RE\RE\obj\Debug\RE.g.resources
+c:\users\kbstudentint\documents\visual studio 2013\Projects\RE\RE\obj\Debug\RE.Properties.Resources.resources
+c:\users\kbstudentint\documents\visual studio 2013\Projects\RE\RE\obj\Debug\RE.csproj.GenerateResource.Cache
+c:\users\kbstudentint\documents\visual studio 2013\Projects\RE\RE\obj\Debug\RE.exe
+c:\users\kbstudentint\documents\visual studio 2013\Projects\RE\RE\obj\Debug\RE.pdb
