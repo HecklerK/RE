@@ -11,3 +11,16 @@ c:\users\kbstudentint\documents\visual studio 2013\Projects\RE\RE\obj\Debug\RE.P
 c:\users\kbstudentint\documents\visual studio 2013\Projects\RE\RE\obj\Debug\RE.csproj.GenerateResource.Cache
 c:\users\kbstudentint\documents\visual studio 2013\Projects\RE\RE\obj\Debug\RE.exe
 c:\users\kbstudentint\documents\visual studio 2013\Projects\RE\RE\obj\Debug\RE.pdb
+C:\Users\kbstudentint\Desktop\RE\RE\bin\Debug\RE.exe.config
+C:\Users\kbstudentint\Desktop\RE\RE\obj\Debug\RE.exe
+C:\Users\kbstudentint\Desktop\RE\RE\obj\Debug\RE.pdb
+C:\Users\kbstudentint\Desktop\RE\RE\bin\Debug\RE.exe
+C:\Users\kbstudentint\Desktop\RE\RE\bin\Debug\RE.pdb
+C:\Users\kbstudentint\Desktop\RE\RE\obj\Debug\RE.csprojResolveAssemblyReference.cache
+C:\Users\kbstudentint\Desktop\RE\RE\obj\Debug\MainWindow.baml
+C:\Users\kbstudentint\Desktop\RE\RE\obj\Debug\MainWindow.g.cs
+C:\Users\kbstudentint\Desktop\RE\RE\obj\Debug\App.g.cs
+C:\Users\kbstudentint\Desktop\RE\RE\obj\Debug\RE_MarkupCompile.cache
+C:\Users\kbstudentint\Desktop\RE\RE\obj\Debug\RE.g.resources
+C:\Users\kbstudentint\Desktop\RE\RE\obj\Debug\RE.Properties.Resources.resources
+C:\Users\kbstudentint\Desktop\RE\RE\obj\Debug\RE.csproj.GenerateResource.Cache

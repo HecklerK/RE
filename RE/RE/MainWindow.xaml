@@ -3,13 +3,13 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow" Height="350" Width="525" IsTabStop="True" WindowStyle="ThreeDBorderWindow">
     <Grid>
-        <Menu Height="16" VerticalAlignment="Top">
+        <Menu Height="20" VerticalAlignment="Top">
             <MenuItem Header="File">
-                <MenuItem Header="New" HorizontalAlignment="Left" Width="140"/>
-                <MenuItem Header="Open" HorizontalAlignment="Left" Width="140"/>
-                <MenuItem Header="Save" HorizontalAlignment="Left" Width="140"/>
+                <MenuItem Header="New" HorizontalAlignment="Left" Width="140" Click="MenuItem_Click"/>
+                <MenuItem Header="Open" HorizontalAlignment="Left" Width="140" Click="MenuItem_Click_2"/>
+                <MenuItem Header="Save" HorizontalAlignment="Left" Width="140" Click="MenuItem_Click_1"/>
                 <Separator/>
-                <MenuItem Header="Exit" HorizontalAlignment="Left" Width="140"/>
+                <MenuItem Header="Exit" HorizontalAlignment="Left" Width="140" Click="MenuItem_Click_3"/>
             </MenuItem>
             <MenuItem Header="Edit">
                 <MenuItem Header="Undo" HorizontalAlignment="Left" Width="140"/>
@@ -27,8 +27,8 @@
                 <MenuItem Header="About"/>
             </MenuItem>
         </Menu>
-        <Image HorizontalAlignment="Left" Height="293" Margin="25,16,0,0" VerticalAlignment="Top" Width="482"/>
-        <ToolBarTray Orientation="Vertical" Height="303" Margin="0,16,492,0" VerticalAlignment="Top">
+        <Image x:Name="picDrawingSurface" Margin="25,25,0,10" MouseDown="picDrawingSurface_MouseDown" MouseUp="picDrawingSurface_MouseUp" MouseMove="picDrawingSurface_MouseMove"/>
+        <ToolBarTray Orientation="Vertical" Margin="0,25,0,0" HorizontalAlignment="Left" Width="25">
             <ToolBar Margin="0,0,-25,-303">
                 <Button></Button>
             </ToolBar>
